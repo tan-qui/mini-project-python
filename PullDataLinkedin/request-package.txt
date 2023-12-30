@@ -1,0 +1,5 @@
+selenium
+chromedriver
+beautifulsoup4
+python-time
+csv
